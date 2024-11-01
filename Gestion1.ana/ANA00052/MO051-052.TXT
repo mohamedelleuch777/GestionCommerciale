@@ -1,0 +1,10 @@
+//MO051-052.TXT ANA00051 TO ANA00052
+Table_Stock		TAR	751	nouvelle taille enregistrement : 751
+Table_Fournisseur		TAR	3610	nouvelle taille enregistrement : 3610
+Table_Produit		TAR	1313	nouvelle taille enregistrement : 1313
+Table_Client		TAR	2478	nouvelle taille enregistrement : 2478
+Table_Client		IDE-*		fichier sans identifiant
+Table_Client	Code_client	CNW	Chaîne$Identifiant automatique (4 octets)	la rubrique Code_client a pour nouveau type Chaîne
+Table_Client	Civilite	CNW	Chaîne$Entier sur 4 octets	la rubrique Civilite a pour nouveau type Chaîne
+Table_Commande_Client		TAR	654	nouvelle taille enregistrement : 654
+Table_Commande_Client	Code_Client	CNW	Chaîne$Entier sur 4 octets	la rubrique Code_Client a pour nouveau type Chaîne

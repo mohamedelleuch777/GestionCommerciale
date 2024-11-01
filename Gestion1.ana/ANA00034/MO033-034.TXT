@@ -1,0 +1,9 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Table_Produit_Associe_Fournisseur		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+Table_Stock		NFI		nouveau fichier
+Table_Fournisseur		TAR	3610	nouvelle taille enregistrement : 3610
+Table_Produit		TAR	1258	nouvelle taille enregistrement : 1258
+Table_Client		TAR	3408	nouvelle taille enregistrement : 3408
+Table_Commande_Client		FIC-	Table_Stock	Fichier supprimé Table_Stock
+Table_Produit_Associe_Fournisseur		FRN		
+Table_Stock		FRN		

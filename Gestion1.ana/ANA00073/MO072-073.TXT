@@ -1,0 +1,3 @@
+//MO072-073.TXT ANA00072 TO ANA00073
+Table_Stock_Mem_Virtuelle		TAR	178	nouvelle taille enregistrement : 178
+Table_Stock_Mem_Virtuelle	Prix	CNW	Réel sur 8 octets$Entier sur 4 octets	la rubrique Prix a pour nouveau type Réel sur 8 octets

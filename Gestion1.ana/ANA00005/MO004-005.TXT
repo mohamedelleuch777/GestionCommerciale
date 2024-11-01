@@ -1,0 +1,9 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Table_Stock		NFI		nouveau fichier
+Table_Produit_Associe_Fournisseur		NFI		nouveau fichier
+Table_Produit		NFI		nouveau fichier
+Table_Fournisseur		NFI		nouveau fichier
+Table_Commande_Client		NFI		nouveau fichier
+Table_Client		NFI		nouveau fichier
+Table_Authentification		NFI		nouveau fichier
+Table_Authentification		FIC-	Table_Authentification	Fichier supprimé Table_Authentification

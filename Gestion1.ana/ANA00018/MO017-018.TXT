@@ -1,0 +1,3 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Table_Produit		NFI		nouveau fichier
+Table_Client		FIC-	Table_Produit	Fichier supprimé Table_Produit

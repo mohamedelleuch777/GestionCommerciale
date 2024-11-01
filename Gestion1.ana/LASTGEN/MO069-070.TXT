@@ -1,0 +1,3 @@
+//MO069-070.TXT ANA00069 TO ANA00070
+Table_Stock_Mem_Virtuelle		NFI		nouveau fichier
+Table_Stock_Mem_Virtuelle		FRN		

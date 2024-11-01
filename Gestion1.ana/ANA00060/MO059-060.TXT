@@ -1,0 +1,8 @@
+//MO059-060.TXT ANA00059 TO ANA00060
+Facture_sauvegarde		TAR	32330	nouvelle taille enregistrement : 32330
+Table_Stock		TAR	751	nouvelle taille enregistrement : 751
+Table_Fournisseur		TAR	3610	nouvelle taille enregistrement : 3610
+Table_Produit		TAR	1313	nouvelle taille enregistrement : 1313
+Table_Client		TAR	2431	nouvelle taille enregistrement : 2431
+Mouvement		TAR	174	nouvelle taille enregistrement : 174
+Mouvement	Description	RUB+		Description est une nouvelle rubrique

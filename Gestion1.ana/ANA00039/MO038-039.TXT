@@ -1,0 +1,6 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+Historique_Stock		NFI		nouveau fichier
+Table_Fournisseur		TAR	3610	nouvelle taille enregistrement : 3610
+Table_Produit		TAR	1258	nouvelle taille enregistrement : 1258
+Table_Client		TAR	3408	nouvelle taille enregistrement : 3408
+Historique_Stock		FRN		

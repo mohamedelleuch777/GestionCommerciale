@@ -1,0 +1,7 @@
+//MO064-065.TXT ANA00064 TO ANA00065
+Facture_sauvegarde		TAR	32330	nouvelle taille enregistrement : 32330
+Table_Stock		TAR	751	nouvelle taille enregistrement : 751
+Table_Fournisseur		TAR	3610	nouvelle taille enregistrement : 3610
+Table_Produit		TAR	1313	nouvelle taille enregistrement : 1313
+Table_Client		TAR	2431	nouvelle taille enregistrement : 2431
+Table_Client	Matricule_fiscal	NNR	Civilite	ATTENTION : la rubrique Civilite a pour nouveau nom Matricule_fiscal

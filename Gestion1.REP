@@ -1,0 +1,22 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=A	;Analysis GUID
+LOCALIZATION_UTF8=38CA5A914E9C4DBF9153F256A59ED9FC	Table_Authentification	C:\Users\einstein7777\Desktop\bbb\Exe\Table_Authentification.FIC
+LOCALIZATION_UTF8=E36C30369257438C8C67E00F34EADDB0	Table_Stock	C:\Users\einstein7777\Desktop\bbb\Exe\Table_Stock.FIC
+LOCALIZATION_UTF8=4EF892FFEC0441E3B4886EA59D74389A	Table_Stock_Mem_Virtuelle	C:\Users\einstein7777\Desktop\bbb\Exe\Table_Stock_Mem_Virtuelle.FIC
+LOCALIZATION_UTF8=FED3C356D78941048B79544934056FF0	Facture_sauvegarde	C:\Users\einstein7777\Desktop\bbb\Exe\Facture_sauvegarde.FIC
+LOCALIZATION_UTF8=3B91A692CB454599A4E87DE18565C2C6	Devis_sauvegarde	C:\Users\einstein7777\Desktop\bbb\Exe\Devis_sauvegarde.FIC
+LOCALIZATION_UTF8=885B87D574274A168B349D2420ED40C1	BL_Sauvegarde	C:\Users\einstein7777\Desktop\bbb\Exe\BL_Sauvegarde.FIC
+LOCALIZATION_UTF8=062664CC3DD843DBB7B51E1E66A28690	Table_Produit	C:\Users\einstein7777\Desktop\bbb\Exe\Table_Produit.FIC
+LOCALIZATION_UTF8=DAC6F25DE0EE42D3AFEA081CB28D78AC	Table_Fournisseur	C:\Users\einstein7777\Desktop\bbb\Exe\Table_Fournisseur.FIC
+LOCALIZATION_UTF8=7D8E5ED4A4B240918B59DDA7CD3564F9	MVT_Client	C:\Users\einstein7777\Desktop\bbb\Exe\MVT_Client.FIC
+LOCALIZATION_UTF8=6813336E2D52442FAD343D1F9BAB0837	Table_Client	C:\Users\einstein7777\Desktop\bbb\Exe\Table_Client.FIC
+LOCALIZATION_UTF8=38CA5A914E9C4DBF9153F256A59ED9FC	Table_Authentification	C:\Mes Projets\GestionXilyor\Exe\Table_Authentification.FIC
+LOCALIZATION_UTF8=E36C30369257438C8C67E00F34EADDB0	Table_Stock	C:\Mes Projets\GestionXilyor\Exe\Table_Stock.FIC
+LOCALIZATION_UTF8=4EF892FFEC0441E3B4886EA59D74389A	Table_Stock_Mem_Virtuelle	C:\Mes Projets\GestionXilyor\Exe\Table_Stock_Mem_Virtuelle.FIC
+LOCALIZATION_UTF8=F14AA1EEE5604812AF36E3135783D82F	Journal_mouvement_casse	C:\Mes Projets\GestionXilyor\Exe\Journal_mouvement_casse.FIC
+LOCALIZATION_UTF8=FED3C356D78941048B79544934056FF0	Facture_sauvegarde	C:\Mes Projets\GestionXilyor\Exe\Facture_sauvegarde.FIC
+LOCALIZATION_UTF8=3B91A692CB454599A4E87DE18565C2C6	Devis_sauvegarde	C:\Mes Projets\GestionXilyor\Exe\Devis_sauvegarde.FIC
+LOCALIZATION_UTF8=885B87D574274A168B349D2420ED40C1	BL_Sauvegarde	C:\Mes Projets\GestionXilyor\Exe\BL_Sauvegarde.FIC
+LOCALIZATION_UTF8=DAC6F25DE0EE42D3AFEA081CB28D78AC	Table_Fournisseur	C:\Mes Projets\GestionXilyor\Exe\Table_Fournisseur.FIC
+LOCALIZATION_UTF8=062664CC3DD843DBB7B51E1E66A28690	Table_Produit	C:\Mes Projets\GestionXilyor\Exe\Table_Produit.FIC

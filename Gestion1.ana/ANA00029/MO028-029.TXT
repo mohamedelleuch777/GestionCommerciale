@@ -1,0 +1,4 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Table_Authentification		NFI		nouveau fichier
+Table_Client		TAR	3408	nouvelle taille enregistrement : 3408
+Table_Commande_Client		FIC-	Table_Authentification	Fichier supprimé Table_Authentification

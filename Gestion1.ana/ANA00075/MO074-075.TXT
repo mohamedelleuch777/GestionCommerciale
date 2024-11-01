@@ -1,0 +1,12 @@
+//MO074-075.TXT ANA00074 TO ANA00075
+BL_Sauvegarde		TAR	31806	nouvelle taille enregistrement : 31806
+BL_Sauvegarde	Code_client	RUB+		Code_client est une nouvelle rubrique
+BL_Sauvegarde	Client	RUB+		Client est une nouvelle rubrique
+BL_Sauvegarde	Adresse	RUB+		Adresse est une nouvelle rubrique
+BL_Sauvegarde	Code_tva	RUB+		Code_tva est une nouvelle rubrique
+BL_Sauvegarde	Num_devis	RUB+		Num_devis est une nouvelle rubrique
+BL_Sauvegarde	Date	RUB+		Date est une nouvelle rubrique
+BL_Sauvegarde	table1	RUB+		table1 est une nouvelle rubrique
+BL_Sauvegarde	table2	RUB+		table2 est une nouvelle rubrique
+BL_Sauvegarde	table3	RUB+		table3 est une nouvelle rubrique
+BL_Sauvegarde	libelle	RUB+		libelle est une nouvelle rubrique

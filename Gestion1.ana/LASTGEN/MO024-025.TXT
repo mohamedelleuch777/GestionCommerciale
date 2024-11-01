@@ -1,0 +1,7 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Table_Client		IDE+		fichier avec identifiant
+Table_Client		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+Table_Client	Code_client	CNW	Identifiant automatique (4 octets)$Entier sur 4 octets	la rubrique Code_client a pour nouveau type Identifiant automatique (4 oct
+Table_Client	Nom	CLE-		la rubrique Nom n'est plus une clé
+Table_Client	Prenom	CLE-		la rubrique Prenom n'est plus une clé
+Table_Client	Code_Postal	CLEN		la rubrique Code_Postal est maintenant une clé

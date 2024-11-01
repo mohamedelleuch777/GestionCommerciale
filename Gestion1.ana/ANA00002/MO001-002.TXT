@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Table_Stock		NFI		nouveau fichier
+Table_Produit		NFI		nouveau fichier
+Table_Facturation		NFI		nouveau fichier
+Table_Client		NFI		nouveau fichier

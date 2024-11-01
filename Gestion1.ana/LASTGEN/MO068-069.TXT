@@ -1,0 +1,3 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+Devis_sauvegarde		NFI		nouveau fichier
+Devis_sauvegarde		FRN		

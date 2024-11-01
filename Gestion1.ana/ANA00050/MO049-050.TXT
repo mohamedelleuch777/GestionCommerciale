@@ -1,0 +1,11 @@
+//MO049-050.TXT ANA00049 TO ANA00050
+Table_Produit_Associe_Fournisseur		TAR	2627	nouvelle taille enregistrement : 2627
+Table_Produit_Associe_Fournisseur	Taux_TVA	CNW	Réel sur 8 octets$Entier sur 4 octets	la rubrique Taux_TVA a pour nouveau type Réel sur 8 octets
+Table_Stock		TAR	751	nouvelle taille enregistrement : 751
+Table_Fournisseur		TAR	3610	nouvelle taille enregistrement : 3610
+Table_Produit		TAR	1313	nouvelle taille enregistrement : 1313
+Table_Produit	Prix_HT	CNW	Réel sur 8 octets$Entier sur 4 octets	la rubrique Prix_HT a pour nouveau type Réel sur 8 octets
+Table_Produit	Taux_TVA	CNW	Réel sur 8 octets$Entier sur 4 octets	la rubrique Taux_TVA a pour nouveau type Réel sur 8 octets
+Table_Client		TAR	3408	nouvelle taille enregistrement : 3408
+Table_Commande_Client		TAR	607	nouvelle taille enregistrement : 607
+Table_Commande_Client	Taux_TVA	CNW	Réel sur 8 octets$Entier sur 4 octets	la rubrique Taux_TVA a pour nouveau type Réel sur 8 octets

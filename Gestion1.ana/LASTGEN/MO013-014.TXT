@@ -1,0 +1,2 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Table_Client	Code_Postal	CLE-		la rubrique Code_Postal n'est plus une clé

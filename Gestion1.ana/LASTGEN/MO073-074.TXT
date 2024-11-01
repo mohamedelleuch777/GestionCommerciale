@@ -1,0 +1,3 @@
+//MO073-074.TXT ANA00073 TO ANA00074
+BL_Sauvegarde		NFI		nouveau fichier
+BL_Sauvegarde		FRN		

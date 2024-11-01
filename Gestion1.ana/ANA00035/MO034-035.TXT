@@ -1,0 +1,5 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Table_Stock		TAR	631	nouvelle taille enregistrement : 631
+Table_Stock		IDE-*		fichier sans identifiant
+Table_Stock	Date_Mouvement	RUB+		Date_Mouvement est une nouvelle clé
+Table_Stock	Description	RUB+		Description est une nouvelle rubrique

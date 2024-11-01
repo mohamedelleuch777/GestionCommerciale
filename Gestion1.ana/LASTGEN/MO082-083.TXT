@@ -1,0 +1,3 @@
+//MO082-083.TXT ANA00082 TO ANA00083
+Journal_mouvement_casse		TAR	1058	nouvelle taille enregistrement : 1058
+Journal_mouvement_casse	Visibilité	RUB+		Visibilité est une nouvelle rubrique
