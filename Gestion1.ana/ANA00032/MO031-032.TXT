@@ -1,0 +1,4 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Table_Produit		TAR	1258	nouvelle taille enregistrement : 1258
+Table_Client		TAR	3408	nouvelle taille enregistrement : 3408
+Table_Commande_Client		FIC-	Table_Fournisseur	Fichier supprimé Table_Fournisseur

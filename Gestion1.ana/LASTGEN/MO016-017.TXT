@@ -1,0 +1,2 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Table_Commande_Client		NFI		nouveau fichier

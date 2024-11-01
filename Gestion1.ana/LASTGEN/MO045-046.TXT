@@ -1,0 +1,5 @@
+//MO045-046.TXT ANA00045 TO ANA00046
+Facture_du_jour	Date	CLEN*		la rubrique Date est maintenant une clé
+Table_Fournisseur		TAR	3610	nouvelle taille enregistrement : 3610
+Table_Produit		TAR	1258	nouvelle taille enregistrement : 1258
+Table_Client		TAR	3408	nouvelle taille enregistrement : 3408

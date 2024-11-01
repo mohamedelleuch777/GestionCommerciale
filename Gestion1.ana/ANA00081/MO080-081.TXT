@@ -1,0 +1,3 @@
+//MO080-081.TXT ANA00080 TO ANA00081
+Journal_mouvement_casse		TAR	1056	nouvelle taille enregistrement : 1056
+Journal_mouvement_casse	Date_Mouvement	RUB+		Date_Mouvement est une nouvelle rubrique

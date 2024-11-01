@@ -1,0 +1,3 @@
+//MO079-080.TXT ANA00079 TO ANA00080
+Journal_mouvement_casse		TAR	1047	nouvelle taille enregistrement : 1047
+Journal_mouvement_casse	Solde	RUB+		Solde est une nouvelle rubrique

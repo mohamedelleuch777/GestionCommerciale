@@ -1,0 +1,3 @@
+//MO076-077.TXT ANA00076 TO ANA00077
+Journal_mouvement_casse		NFI		nouveau fichier
+Journal_mouvement_casse		FRN		

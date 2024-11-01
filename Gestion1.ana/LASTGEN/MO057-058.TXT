@@ -1,0 +1,5 @@
+//MO057-058.TXT ANA00057 TO ANA00058
+Mouvement		TAR	72	nouvelle taille enregistrement : 72
+Mouvement	Code_client	RUB+		Code_client est une nouvelle clé
+Mouvement	mouvement	RUB+		mouvement est une nouvelle rubrique
+Mouvement	caisse	RUB+		caisse est une nouvelle rubrique

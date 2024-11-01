@@ -1,0 +1,7 @@
+//MO043-044.TXT ANA00043 TO ANA00044
+Table_Stock		TAR	695	nouvelle taille enregistrement : 695
+Table_Stock		IDE+*		fichier avec identifiant
+Table_Stock	num_enregistrement	RUB+		num_enregistrement est une nouvelle clé
+Table_Fournisseur		TAR	3610	nouvelle taille enregistrement : 3610
+Table_Produit		TAR	1258	nouvelle taille enregistrement : 1258
+Table_Client		TAR	3408	nouvelle taille enregistrement : 3408

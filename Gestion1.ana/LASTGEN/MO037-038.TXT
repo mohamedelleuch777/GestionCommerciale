@@ -1,0 +1,3 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Table_Stock	Date_Mouvement	CLE-*		la rubrique Date_Mouvement n'est plus une clé
+Table_Stock	Designation	CLE-*		la rubrique Designation n'est plus une clé

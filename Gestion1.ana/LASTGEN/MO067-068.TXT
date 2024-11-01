@@ -1,0 +1,6 @@
+//MO067-068.TXT ANA00067 TO ANA00068
+Facture_sauvegarde		TAR	32330	nouvelle taille enregistrement : 32330
+Table_Stock		TAR	751	nouvelle taille enregistrement : 751
+Table_Fournisseur		TAR	3610	nouvelle taille enregistrement : 3610
+Table_Produit		TAR	1314	nouvelle taille enregistrement : 1314
+Table_Client		TAR	2431	nouvelle taille enregistrement : 2431

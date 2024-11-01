@@ -1,0 +1,3 @@
+//MO053-054.TXT ANA00053 TO ANA00054
+Facture_sauvegarde		NFI		nouveau fichier
+Facture_sauvegarde		FRN		

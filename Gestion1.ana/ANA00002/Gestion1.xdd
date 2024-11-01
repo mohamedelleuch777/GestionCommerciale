@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<ANALYSE GenNum="2" VersionStructure="1">
+  <CONNEXION Nom="MaConnexion1" Type="1">
+    <SOURCE>D:\Mes Projets\Gestion1\Base\bd1.mdb</SOURCE>
+    <USER></USER>
+    <MDP></MDP>
+    <DB></DB>
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+  </CONNEXION>
+  <FICHIER Nom="Table_Stock" Abreviation="" NomPhysique="Table_Stock" FicNullSupporte="1" Connexion="MaConnexion1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="Code_Produit">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Designation">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Quantite">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Table_Produit" Abreviation="" NomPhysique="Table_Produit" FicNullSupporte="1" Connexion="MaConnexion1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="Code_produit">
+      <TYPE>38</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Designation">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Origine">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Cout_de_revient">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Entree">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Date_">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Table_Facturation" Abreviation="" NomPhysique="Table_Facturation" FicNullSupporte="1" Connexion="MaConnexion1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="Date_">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Num_facture">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Matricule">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Code_Produit">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Designation">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Quantite">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Prix">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Remise">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Table_Client" Abreviation="" NomPhysique="Table_Client" FicNullSupporte="1" Connexion="MaConnexion1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="Code_client">
+      <TYPE>38</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Nom_ou_raison">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Adresse">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Email">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Matricule_fiscal">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Table_Authentification" Abreviation="" NomPhysique="Table_Authentification" FicNullSupporte="1" Connexion="MaConnexion1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="Login">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Mot_de_passe">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+</ANALYSE>

@@ -1,0 +1,16 @@
+//MO054-055.TXT ANA00054 TO ANA00055
+Facture_sauvegarde		TAR	32330	nouvelle taille enregistrement : 32330
+Facture_sauvegarde	Code_client	RUB+		Code_client est une nouvelle rubrique
+Facture_sauvegarde	Client	RUB+		Client est une nouvelle rubrique
+Facture_sauvegarde	Adresse	RUB+		Adresse est une nouvelle rubrique
+Facture_sauvegarde	Code_tva	RUB+		Code_tva est une nouvelle rubrique
+Facture_sauvegarde	Num_facture	RUB+		Num_facture est une nouvelle rubrique
+Facture_sauvegarde	date	RUB+		date est une nouvelle rubrique
+Facture_sauvegarde	table1	RUB+		table1 est une nouvelle rubrique
+Facture_sauvegarde	table2	RUB+		table2 est une nouvelle rubrique
+Facture_sauvegarde	table3	RUB+		table3 est une nouvelle rubrique
+Facture_sauvegarde	libelle	RUB+		libelle est une nouvelle rubrique
+Table_Stock		TAR	751	nouvelle taille enregistrement : 751
+Table_Fournisseur		TAR	3610	nouvelle taille enregistrement : 3610
+Table_Produit		TAR	1313	nouvelle taille enregistrement : 1313
+Table_Client		TAR	2478	nouvelle taille enregistrement : 2478

@@ -1,0 +1,6 @@
+//MO048-049.TXT ANA00048 TO ANA00049
+Table_Stock		TAR	751	nouvelle taille enregistrement : 751
+Table_Stock	Prix	RUB+		Prix est une nouvelle rubrique
+Table_Fournisseur		TAR	3610	nouvelle taille enregistrement : 3610
+Table_Produit		TAR	1305	nouvelle taille enregistrement : 1305
+Table_Client		TAR	3408	nouvelle taille enregistrement : 3408

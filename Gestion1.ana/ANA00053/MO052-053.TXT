@@ -1,0 +1,9 @@
+//MO052-053.TXT ANA00052 TO ANA00053
+Table_Produit_Associe_Fournisseur		TAR	2576	nouvelle taille enregistrement : 2576
+Table_Produit_Associe_Fournisseur	Code_Produit	CNW	Entier sur 4 octets$Chaîne	la rubrique Code_Produit a pour nouveau type Entier sur 4 octets
+Table_Produit_Associe_Fournisseur	Taux_TVA	CNW	Entier sur 4 octets$Réel sur 8 octets	la rubrique Taux_TVA a pour nouveau type Entier sur 4 octets
+Table_Commande_Client		TAR	556	nouvelle taille enregistrement : 556
+Table_Commande_Client		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+Table_Commande_Client	Code_Client	CNW	Entier sur 4 octets$Chaîne	la rubrique Code_Client a pour nouveau type Entier sur 4 octets
+Table_Commande_Client	Code_Produit	CNW	Entier sur 4 octets$Chaîne	la rubrique Code_Produit a pour nouveau type Entier sur 4 octets
+Table_Commande_Client	Taux_TVA	CNW	Entier sur 4 octets$Réel sur 8 octets	la rubrique Taux_TVA a pour nouveau type Entier sur 4 octets

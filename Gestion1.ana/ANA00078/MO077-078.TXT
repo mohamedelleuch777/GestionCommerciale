@@ -1,0 +1,3 @@
+//MO077-078.TXT ANA00077 TO ANA00078
+Journal_mouvement_casse		TAR	1030	nouvelle taille enregistrement : 1030
+Journal_mouvement_casse	Description	RUB+		Description est une nouvelle rubrique

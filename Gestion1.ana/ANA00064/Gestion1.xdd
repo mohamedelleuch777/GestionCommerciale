@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<ANALYSE GenNum="64" VersionStructure="1">
+  <CONNEXION Nom="MaConnexion1" Type="1">
+    <SOURCE>D:\Mes Projets\Gestion1\Base\bd1.mdb</SOURCE>
+    <USER></USER>
+    <MDP></MDP>
+    <DB></DB>
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+  </CONNEXION>
+  <FICHIER Nom="Table_Produit_Associe_Fournisseur" Abreviation="" NomPhysique="Table_Produit_Associe_Fournisseur" FicNullSupporte="1" Connexion="MaConnexion1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="N°">
+      <TYPE>38</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Code_Produit">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Description">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Prix_Unitaire_HT">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Fournisseur">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Taux_TVA">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Nom_Image">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Code_Barre_Fabriquent">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Code_Barre_Interne">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Facture_sauvegarde" Abreviation="" NomPhysique="Facture_sauvegarde" FicNullSupporte="1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="IDFacture_sauvegarde">
+      <TYPE>38</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Code_client">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Client">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Adresse">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Code_tva">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Num_facture">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="date">
+      <TYPE>14</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>8</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="table1">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>20000</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="table2">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>10000</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="table3">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>1024</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="libelle">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>1024</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Facture_du_jour" Abreviation="" NomPhysique="Facture_du_jour" FicNullSupporte="1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="Date">
+      <TYPE>14</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>8</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Reference">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Description">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Prix">
+      <TYPE>7</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>8</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Table_Stock" Abreviation="" NomPhysique="Table_Stock" FicNullSupporte="1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="Date_Mouvement">
+      <TYPE>14</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>8</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Code_produit">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Designation">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Quantite">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Description">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Prix">
+      <TYPE>7</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>8</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Login">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="num_enregistrement">
+      <TYPE>38</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Table_Fournisseur" Abreviation="" NomPhysique="Table_Fournisseur" FicNullSupporte="1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="Code_Societe">
+      <TYPE>38</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Matricule">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Nom_Societe">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Adresse">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Code_Postal">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Ville">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Pays">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Telephone">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Fax">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Email">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Observation">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Table_Produit" Abreviation="" NomPhysique="Table_Produit" FicNullSupporte="1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="Code_produit">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Designation">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Description">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Origine">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Prix_HT">
+      <TYPE>7</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>8</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Taux_TVA">
+      <TYPE>7</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>8</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Image">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Type_code_a_barre">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Valeur_code_a_barre">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Table_Authentification" Abreviation="" NomPhysique="Table_Authentification" FicNullSupporte="1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="Login">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Mot_de_passe">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Table_Client" Abreviation="" NomPhysique="Table_Client" FicNullSupporte="1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="Code_client">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Nom">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Prenom">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Civilite">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Adresse">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Code_Postal">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Ville">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Pays">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Observation">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Telephone">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Fax">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Email">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+  <FICHIER Nom="Mouvement" Abreviation="" NomPhysique="Mouvement" FicNullSupporte="1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="IDMouvement">
+      <TYPE>38</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Date">
+      <TYPE>14</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>8</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Code_client">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="mouvement">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Description">
+      <TYPE>2</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="reçu">
+      <TYPE>7</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>8</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="payé">
+      <TYPE>7</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>8</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
+</ANALYSE>

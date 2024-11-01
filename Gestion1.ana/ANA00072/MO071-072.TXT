@@ -1,0 +1,2 @@
+//MO071-072.TXT ANA00071 TO ANA00072
+Table_Stock_Mem_Virtuelle	Code_Produit	CLEN*		la rubrique Code_Produit est maintenant une clé

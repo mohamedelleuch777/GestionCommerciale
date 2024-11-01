@@ -1,0 +1,3 @@
+//MO083-084.TXT ANA00083 TO ANA00084
+MVT_Client		NFI		nouveau fichier
+MVT_Client		FRN		

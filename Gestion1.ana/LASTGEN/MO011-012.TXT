@@ -1,0 +1,2 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Table_Commande_Client		FIC-	Table_Client	Fichier supprimé Table_Client

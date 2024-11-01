@@ -1,0 +1,2 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Table_Client		FIC-	Table_Authentification	Fichier supprimé Table_Authentification

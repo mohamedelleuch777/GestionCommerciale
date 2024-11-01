@@ -1,0 +1,5 @@
+//MO070-071.TXT ANA00070 TO ANA00071
+Table_Stock_Mem_Virtuelle		TAR	174	nouvelle taille enregistrement : 174
+Table_Stock_Mem_Virtuelle	Designation	RUB+		Designation est une nouvelle rubrique
+Table_Stock_Mem_Virtuelle	Description	RUB+		Description est une nouvelle rubrique
+Table_Stock_Mem_Virtuelle	Prix	RUB+		Prix est une nouvelle rubrique

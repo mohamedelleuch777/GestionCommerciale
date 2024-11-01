@@ -1,0 +1,5 @@
+//MO078-079.TXT ANA00078 TO ANA00079
+Journal_mouvement_casse		TAR	1039	nouvelle taille enregistrement : 1039
+Journal_mouvement_casse	Description_Mouvement	NNR	Description	ATTENTION : la clé Description a pour nouveau nom Description_Mouvement
+Journal_mouvement_casse	Description_Mouvement	CLEN*		la rubrique Description_Mouvement est maintenant une clé
+Journal_mouvement_casse	Heure	RUB+		Heure est une nouvelle clé

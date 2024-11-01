@@ -1,0 +1,2 @@
+//MO081-082.TXT ANA00081 TO ANA00082
+Journal_mouvement_casse	Date_Mouvement	CLEN*		la rubrique Date_Mouvement est maintenant une clé
