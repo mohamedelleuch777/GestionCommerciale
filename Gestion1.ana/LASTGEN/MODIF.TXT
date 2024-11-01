@@ -1,3 +1,4 @@
-//MO083-084.TXT ANA00083 TO ANA00084
-MVT_Client		NFI		nouveau fichier
-MVT_Client		FRN		
+//MO084-085.TXT ANA00084 TO ANA00085
+MVT_Client		TAR	238	nouvelle taille enregistrement : 238
+MVT_Client	payé	RUB+		payé est une nouvelle rubrique
+MVT_Client	Reste	RUB+		Reste est une nouvelle rubrique
