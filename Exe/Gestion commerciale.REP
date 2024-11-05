@@ -1,0 +1,8 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=A	;Analysis GUID
+LOCALIZATION_UTF8=38CA5A914E9C4DBF9153F256A59ED9FC	Table_Authentification	C:\Mes Projets\GestionXilyor\Exe\Table_Authentification.FIC
+LOCALIZATION_UTF8=E36C30369257438C8C67E00F34EADDB0	Table_Stock	C:\Mes Projets\GestionXilyor\Exe\Table_Stock.FIC
+LOCALIZATION_UTF8=4EF892FFEC0441E3B4886EA59D74389A	Table_Stock_Mem_Virtuelle	C:\Mes Projets\GestionXilyor\Exe\Table_Stock_Mem_Virtuelle.FIC
+LOCALIZATION_UTF8=6813336E2D52442FAD343D1F9BAB0837	Table_Client	C:\Mes Projets\GestionXilyor\Exe\Table_Client.FIC
+LOCALIZATION_UTF8=885B87D574274A168B349D2420ED40C1	BL_Sauvegarde	C:\Mes Projets\GestionXilyor\Exe\BL_Sauvegarde.FIC
